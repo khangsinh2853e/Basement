@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./khangsinh.png" alt="Khang Sinh" />
+  <img src="./new.png" alt="Khang Sinh" />
 </p>
 
 <p align="center">
